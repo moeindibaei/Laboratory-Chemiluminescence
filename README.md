@@ -1,4 +1,4 @@
-# Laboratory Chemiluminescence 
+# Control & Sensor Interface Board | Laboratory Chemiluminescence
 
 Altium Designer PCB layout, schematic, and Bill of Materials (BOM) for a laboratory luminescence analysis and liquid control module based on an STM32 microcontroller, featuring precision liquid level detection (LLD), actuator control, and dedicated sensor buses.
 
